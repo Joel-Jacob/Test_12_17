@@ -16,6 +16,7 @@ What are form factors?
 What are Layout Qualifiers?
 >Are given based on the phone state and can be used to change the activity
 
+
 **CODING**
 
 Result:
@@ -28,4 +29,4 @@ Create function to check if the string is a palindrome without using string.reve
 >checkPalindrome(String word), use a for loop that goes through the entire string and returns false if the string[i] != string[(string.length()-1) -i]
 
 Create a function that will print: "fizz" if the number is divisible by 3, "buzz" if the number is divisible by 5, "fizzbuzz" is the number is divisible by both
->isDivisible(int num), used mulitple if statements and the modulus function to check if the number was divisible by 3, 5 or both
+>isDivisible(int num), used mulitple if statements and the modulus operator to check if the number was divisible by 3, 5 or both
