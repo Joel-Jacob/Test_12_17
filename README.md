@@ -1,5 +1,6 @@
 # Test_12_17
 **QUESTIONS**
+
 What is the difference in Dalvik and ART?
 >Dalviik uses a JIT compiler to compile the code; compiled during the installation of the appArt uses a AOT compiler to compile the code; part of the code is compiled during installation while the other half is compiled during runtime dynamically
 
@@ -16,6 +17,7 @@ What are Layout Qualifiers?
 >Are given based on the phone state and can be used to change the activity
 
 **CODING**
+
 Result:
 ![screenshot](https://i.imgur.com/2us0h8M.png)
 
