@@ -1,8 +1,7 @@
 # Test_12_17
 What is the difference in Dalvik and ART?
-
-Dalviik uses a JIT compiler to compile the code; compiled during the installation of the app
-Art uses a AOT compiler to compile the code; part of the code is compiled during installation while the other half is compiled during runtime dynamically
+>Dalviik uses a JIT compiler to compile the code; compiled during the installation of the app
+>Art uses a AOT compiler to compile the code; part of the code is compiled during installation while the other half is >compiled during runtime dynamically
 
 What is the DEX Limit?
 
