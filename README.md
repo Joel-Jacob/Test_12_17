@@ -15,4 +15,4 @@ What are Layout Qualifiers?
 >Are given based on the phone state and can be used to change the activity
 
 Result:
-![screenshot](https://imgur.com/YalXRxF)
+![screenshot]([img]https://i.imgur.com/YalXRxF.png[/img])
